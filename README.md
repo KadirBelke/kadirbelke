@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.
 
 ## 🚀 About Me
-- 💻 I work with **Ruby on Rails, PostgreSQL, AWS, Elasticsearch, and React**
+- 💻 I work with **Ruby on Rails, PostgreSQL, AWS, Elasticsearch**
 - 📚 Currently learning **React and front-end development**
 - 🎯 Focused on building **Eliyle**, an application for sign language education
 - 🛠 Interested in **full-stack development and scalable applications**
@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadirbelke&show_icons=true&theme=radical)
